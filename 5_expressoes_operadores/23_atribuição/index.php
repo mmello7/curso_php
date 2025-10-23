@@ -29,3 +29,12 @@
     $e %= 2; // $e = $e %2
 
     echo $e. "<br>";
+
+    //utilizacao com variaveis
+
+    $f = 10;
+    $g = 20;
+
+    $f += $g; // $f = $f + $g
+
+    echo $f . "<br>";
